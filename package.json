@@ -1,0 +1,33 @@
+{
+  "name": "bookteca",
+  "version": "1.0.0",
+  "description": "Uma biblioteca feita para hospedar livros gratuitos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foonseeca/bookteca-web.git"
+  },
+  "keywords": [
+    "Livros",
+    "gratuitos",
+    "biblioteca",
+    "ler",
+    "online",
+    "consulta",
+    "de",
+    "livros"
+  ],
+  "author": "Caio Fonseca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/foonseeca/bookteca-web/issues"
+  },
+  "homepage": "https://github.com/foonseeca/bookteca-web#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1"
+  }
+}
